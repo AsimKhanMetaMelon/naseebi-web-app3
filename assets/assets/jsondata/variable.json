@@ -1,0 +1,14 @@
+{
+    "appName": "Naseebi",
+    "apiBaseURL": "https://api.naseebi.com/api/",
+    "imageBaseurl":"https://api.naseebi.com/",
+    "version": 1.0,
+    "apiKeyForWeb": "AIzaSyAF0DTs6LA_Nou3n2HITgqrof_Y4lNyzpw",
+    "authDomainForWeb": "naseebi-57683.firebaseapp.com",
+    "projectIdForWeb": "naseebi-57683",
+    "storageBucketForWeb": "naseebi-57683.appspot.com",
+    "messagingSenderIdForWeb": "881924296159",
+    "appIdForWeb": "1:881924296159:web:85ee1cdf66a38d1bc1886a",
+    "measurementIdForWeb": "'G-Z8JZ9G951J",
+    "vapidKey":"BED1GgiGmXwYPcgT5xxwN0vgvRhr5RH5V6Slv1N7L5IQJA6n-qg4PTOOWSx3-tRHJgt-bg01eXFoXyt2Bu9BTLU"
+}
